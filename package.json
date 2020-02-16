@@ -1,0 +1,19 @@
+{
+  "name": "bmdatos",
+  "version": "1.0.0",
+  "description": "\"# BMDatos\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZJonnathan/BMDatos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZJonnathan/BMDatos/issues"
+  },
+  "homepage": "https://github.com/ZJonnathan/BMDatos#readme"
+}
